@@ -1,15 +1,3 @@
-# README
+### Development of EasyList - AdGuard filter 
 
-Describe the basic purpose and use of this repo.
-
-----
-
-## More technical overview explaination
-
-----
-
-## Shortcuts in this Repo
-
-----
-
-## Links
+This is the development public repo (extended branch)
